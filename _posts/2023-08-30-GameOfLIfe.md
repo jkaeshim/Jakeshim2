@@ -1,26 +1,13 @@
 ---
 toc: true
-comments: false
+comments: False
 layout: post
 title: Game of Life
-description: Grab of the Game of Life from APCSA repo.
-type: hacks
-courses: { compsci: {week: 2} }
+description: Go through life
+type: plans
+courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 0} }
+categories: [C1.4]
 ---
-
-{% comment %}
-Conway's Game of Life https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-{% endcomment %}
-
-## Try Game by checking boxes with following patterns.
-
-```
-Up glider   Down Glider   Very Fun
- xxx           x            x
-   x            x            x
-  x           xxx           xxx
-```
-
 <style>
     #container {
     display: grid;
@@ -210,4 +197,3 @@ function start() {
 }
 
 </script>
-

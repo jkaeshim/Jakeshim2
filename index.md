@@ -4,12 +4,20 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Hello, welcome to my blog
+I am Jake Shim 
+and I like Basketball.
+![!\[Alt text\](IMG_5874.jpg)](images/IMG_5874.jpg)
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+My top 3 players are:
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+
+1:Lebron James ![!\[Alt text\](images/image-1.png)](images/image.png)
+
+
+2:Jeremy Lin ![!\[Alt text\](images/image-1.png)](images/image-1.png)
+
+
+3:Bones Hyland ![!\[Alt text\](image-2.png)](images/image-2.png)
+
+
