@@ -1,12 +1,11 @@
 ---
 toc: true
-comments: False
+comments: false
 layout: post
-title: Game of Life
-description: Go through life
-type: plans
-courses: { csse: {week: 0}, csp: {week: 0, categories: [4.A]}, csa: {week: 0} }
-categories: [C1.4]
+title: Game Of My Life
+description: Win
+type: hacks
+courses: { compsci: {week: 1} }
 ---
 <style>
     #container {
