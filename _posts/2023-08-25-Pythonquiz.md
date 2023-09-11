@@ -1,3 +1,13 @@
+---
+toc: true
+comments: false
+layout: post
+title: Quiz
+description: Get 3/3
+type: hacks
+courses: { compsci: {week: 1} }
+---
+<style>
 <!DOCTYPE html>
 <html>
 <head>

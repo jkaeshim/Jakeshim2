@@ -1,4 +1,13 @@
-
+---
+toc: true
+comments: false
+layout: post
+title: Tic Tac Toe
+description: Get 3 In A Row To Win
+type: hacks
+courses: { compsci: {week: 1} }
+---
+<style>
 <html lang="en">
 <head>
     <meta charset="UTF-8">

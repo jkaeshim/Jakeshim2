@@ -1,11 +1,26 @@
+---
+toc: true
+comments: false
+layout: post
+title: Daily Plan
+description: What I did
+type: plans
+courses: { compsci: {week: 1} }
+---
+---
 Daily Plan
 ## Monday
 Github Pages started working
+Found out how to use the python quiz and got it working
+finish setting up all required python hacks
 ## Tuesday
-Added 2 new games
+Figured out how to fix csp page on github
+Made sure my code was correct using Ai 
+Created a review ticket 
+Worked on hacks using Jquery
 ## Wednesday
-Added 2 more games
+Got Python io
 ## Thursday
-Added additional posts on my own
+Started making sure all my hacks pictures and links were working
 ## Friday
-Added Table
+Added Ai that answers questions when asked. 
