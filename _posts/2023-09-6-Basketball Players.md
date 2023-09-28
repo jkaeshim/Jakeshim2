@@ -10,7 +10,7 @@ courses: { compsci: {week: 3} }
 <!DOCTYPE html>
 <html>
 <head>
-  <title>NBA API Example</title>
+  <title>NBA API</title>
   <style>
     #responseData {
       background-color: black;
