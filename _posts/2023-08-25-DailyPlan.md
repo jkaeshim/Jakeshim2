@@ -5,22 +5,17 @@ layout: post
 title: Daily Plan
 description: What I did
 type: plans
-courses: { compsci: {week: 0,} }
+courses: { compsci: {week: 0,1,2,3,4} }
 ---
 ---
 Daily Plan
 ## Monday
-Github Pages started working
-Found out how to use the python quiz and got it working
-finish setting up all required python hacks
+Add all Hacks listed on Slack/Teacher Respository
 ## Tuesday
-Figured out how to fix csp page on github
-Made sure my code was correct using Ai 
-Created a review ticket 
-Worked on hacks using Jquery
+Listen to TechTalks and work off of that
 ## Wednesday
-Got Python io
+Finish any assignments due this week
 ## Thursday
-Started making sure all my hacks pictures and links were working
+Start double checking to make sure everything is working
 ## Friday
-Added Ai that answers questions when asked. 
+Go over what we did in class and check again.  
