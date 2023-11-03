@@ -5,7 +5,7 @@ layout: post
 title: Tic Tac Toe
 description: Get 3 In A Row To Win
 type: hacks
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 4} }
 ---
 <style>
 <html lang="en">
