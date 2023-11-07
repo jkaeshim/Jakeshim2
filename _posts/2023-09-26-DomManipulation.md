@@ -7,6 +7,7 @@ Description:
 type: hacks
 courses: { compsci: {week: 6} }
 ---
+
 <!DOCTYPE html>
 <html>
 <body>
