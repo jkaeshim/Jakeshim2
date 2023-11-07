@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Week 9 Review
 Description:
-type: hacks
+type: plans
 courses: { compsci: {week: 9} }
 ---
 Monday:
