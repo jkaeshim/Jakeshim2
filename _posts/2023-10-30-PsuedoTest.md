@@ -1,3 +1,13 @@
+---
+toc: true
+comments: false
+layout: post
+title: PseudoTest
+Description:
+type: hacks
+courses: { compsci: {week: 7} }
+---
+
 1. Start
 2. Generate a random number between 1 and 100 and store it in 'randomNumber'
 3. If 'randomNumber' is even, then
