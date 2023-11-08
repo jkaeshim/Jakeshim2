@@ -5,7 +5,7 @@ layout: post
 title: Daily Plan
 description: What I did
 type: plans
-courses: { compsci: {week: 0,1,2,3,4,5,6,7} }
+courses: { compsci: {week: 0} }
 ---
 ---
 Daily Plan

@@ -4,7 +4,7 @@ comments: True
 layout: post
 title: Calculator
 description:
-courses: {'csp': {'week': 1}}
+courses:  { compsci: {week: 1,} }
 type: hacks
 ---
 <html lang="en">
