@@ -5,7 +5,7 @@ layout: post
 title: Quiz
 description: Get 3/3
 type: hacks
-courses: { compsci: {week: 1} }
+courses: { compsci: {week: 2} }
 ---
 <style>
 <!DOCTYPE html>
