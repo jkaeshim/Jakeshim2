@@ -9,12 +9,10 @@ courses: { compsci: {week: 1} }
 ---
 Monday:
 - Focused on work tasks and project planning
-- Met deadlines and organized my to-do list
 - Set clear goals for the week ahead
 
 Tuesday:
 - Invested in personal development
-- Engaged in self-improvement activities
 
 Wednesday:
 - Prioritized team collaboration to better my own repository
@@ -22,11 +20,9 @@ Wednesday:
 
 
 Thursday:
-- Brainstormed new ideas
+- Wrapped up ongoing tasks
 - Worked on a new hack
 
 Friday:
-- Wrapped up ongoing tasks
 - Reviewed weekly accomplishments
 - Planned for the upcoming week
-- Reflected and set goals for next week's tasks and priorities
