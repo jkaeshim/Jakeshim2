@@ -1,0 +1,15 @@
+// button.scss
+$button-color: #3498db;
+
+.button {
+  padding: 10px 20px;
+  background-color: $button-color;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: darken($button-color, 10%);
+  }
+}
