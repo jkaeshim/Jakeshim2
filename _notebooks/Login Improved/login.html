@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Practice Login Page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="login.css">
+        <script src="https://kit.fontawesome.com/b2f3961322.js" crossorigin="anonymous"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+    <form action="_post">
+        <fieldset class="login-container">
+                <label for="email password submit-btn">Login</label>
+                <input type="email" id="email" class="email" placeholder="email" required>
+                <input type="password" id="password" class="password" placeholder="password" required min="8">
+                <input type="submit" id="submit-btn" class="submit-btn">
+                <div class="divider"></div>
+                <button class="google-sign-in"><i class="fa-brands fa-google"></i>Sign in with Google</button>
+                <button class="apple-sign-in"><i class="fa-brands fa-apple"></i>Sign in with Apple ID</button>
+                <button><i class="fa-brands fa-linkedin"></i>Sign in with LinkedIn</button>
+                <div class="divider"></div>
+                <h4 class="sign-up">Don't have an account?</h4>
+                <p class="sign-up">Sign up<a href="sign-up.html" target="_self">here</a></p>
+        </fieldset>
+    </form>
+
+
+
+    </body>
+    <script src="login.js"></script>
+</html>

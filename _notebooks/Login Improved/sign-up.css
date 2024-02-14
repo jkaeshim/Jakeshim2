@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-image: url("mountains3.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: beige;
+    
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+
+.login-container{
+    height: 550px;
+    width: 300px;
+    margin-top: 75px;
+    border-radius: 10px;
+   backdrop-filter: blur(20px);
+
+
+}
+
+label{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    font-family: "Inconsolata", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.sign-up-label{
+    text-decoration: underline;
+}
+
+.email-sign-up, .password-sign-up{
+    font-size: 15px;
+}
+
+input{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    margin-bottom: 20px;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    font-family: "Inconsolata", sans-serif;
+    font-family: 700;
+}
+
+input[type="email"]::placeholder, input[type="password"]{
+    text-align:center ;
+
+}
+
+input[type="email"], input[type="password"]{
+    background-color: #363b4e;
+    color: beige;
+}
+
+.password-requirements{
+    list-style-position: inside;
+    list-style-type:circle;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+li{
+   font-family: "Inconsolata", sans-serif;
+}
+
+.submit-btn{
+    width: 150px;
+    
+}
+
+.divider{
+    border: 1px solid beige;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 175px;
+    border-radius: 3px;
+    font-family: "Inconsolata", sans-serif;
+}
+
+.fa-brands{
+    margin: 3px;
+    padding: 3px;
+}
+
+.sign-up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Inconsolata", sans-serif;
+}
+
+a{
+    text-decoration: underline;
+    margin-left: 4px;
+    font-weight: bold;
+    color: rgb(141, 133, 133);
+}
+
+
+
+
+
