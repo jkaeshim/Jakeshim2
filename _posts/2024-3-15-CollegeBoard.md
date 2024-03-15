@@ -4,23 +4,23 @@
 
 ## QuestioNS I Got Right
 
-Q1-14:
+Q1-14: Straightforward, easy
 
-Q17:
+Q17: Straightforward, easy
 
-Q19-29:
+Q19-29: Straightforward, easy
 
-Q32: 
+Q32: Straightforward, easy
 
-Q35-48:
+Q35-48: Straightforward, easy
 
-Q50-54:
+Q50-54: Straightforward, Medium difficulty
 
-Q56:
+Q56: Straightforward, common sense
 
-Q59-66:
+Q59-66: Straightforward, hard
 
-Q68-70
+Q68-70: Straightforward, easy
 
 ## Questions I got wrong
 
