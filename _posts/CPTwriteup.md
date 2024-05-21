@@ -6,6 +6,8 @@ What our code does is it creates a user friendly chess board using HTML, CSS and
 Two <div class="playSide"> elements are used to display players' sides, one for AI (Black) and another for me (White). They use CSS for positioning and styling, also using a filter to invert colors.
 Two <svg class="chessBoard"> elements represent the chessboards where the game is played. They are styled and positioned using CSS.
 
+![Image Alt Text](images/ss1.jpg)
+
 ## CSS Styling
 Various classes such as .circle, .chessPiece, and .playText are defined to style the chess pieces, the text within the player bars, and potential move highlights.
 The .playSide and .chessBoard classes define the fundamental layout and appearance of the game's interface.
